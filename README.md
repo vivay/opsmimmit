@@ -1,3 +1,3 @@
 # opsmimmit
 OpsHost mimmit koodaa
-Terraform harjoitusta
+Terraform harjoitusta gittiin.
